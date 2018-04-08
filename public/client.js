@@ -4,7 +4,7 @@
 // by default, you've got jQuery,
 // add other scripts at the bottom of index.html
 
-$(function() {
+/*$(function() {
   console.log('hello world :o')
   
   $.get('/dreams', function(dreams) {
@@ -24,3 +24,5 @@ $(function() {
   })
 
 })
+*/
+console.log('I am client');
